@@ -1,6 +1,5 @@
-# n=[23,14,56,12,19,9,15,25,31,42,43]
-# i=0
-# while i<len(n):
-#     if i%2==0:
-#         print(i,"even number")
-#     i=i+1
+
+# even_no={1:2,2:3,4:5,6:7,8:9,13:87}
+# for i in even_no:
+#     if even_no[i]%2==0:
+#         print(even_no[i],"even")
